@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PetListing/static/css/main.283e257c.css",
+    "main.js": "/PetListing/static/js/main.7bd44925.js",
+    "static/js/787.b6850964.chunk.js": "/PetListing/static/js/787.b6850964.chunk.js",
+    "index.html": "/PetListing/index.html",
+    "main.283e257c.css.map": "/PetListing/static/css/main.283e257c.css.map",
+    "main.7bd44925.js.map": "/PetListing/static/js/main.7bd44925.js.map",
+    "787.b6850964.chunk.js.map": "/PetListing/static/js/787.b6850964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.283e257c.css",
+    "static/js/main.7bd44925.js"
+  ]
+}
